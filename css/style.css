@@ -1,16 +1,30 @@
-.navbar {
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
     background-color: #58FAD0;
 }
 
-.img-fluid {
-    border-radius: 25%;
-    
+.img-fluid{
+    border-radius: 25%;  
 }
 
-.quem-somos {
+.quem-somos{
     background-color: #088A85;
+    color: white;
 }
 
-.margin {
-    padding-top: 50px;
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: blanchedalmond;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
